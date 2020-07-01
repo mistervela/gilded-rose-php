@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "GildedRose\\Test\\": "test/",
+            "GildedRose\\": "src/"
+        }
+    }
+}
